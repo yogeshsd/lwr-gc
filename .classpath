@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/HP-SHR/PMDB/lib/jconn4.jar"/>
+	<classpathentry kind="lib" path="C:/HP-SHR/PMDB/lib/postgresql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/deshpany/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/DbVisualizer/jdbc/mysql/mysql.jar"/>
+	<classpathentry kind="lib" path="C:/jersey-archive-1.18/lib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/jersey-archive-1.18/lib/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/jersey-archive-1.18/lib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/jersey-archive-1.18/lib/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/org.apache.commons.codec_1.6.0.v201305230611.jar"/>
+	<classpathentry kind="lib" path="C:/HP-SHR/PMDB/lib/OVoracle.jar"/>
+	<classpathentry kind="lib" path="C:/Users/deshpany/Downloads/pdfbox-app-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/HP-SHR/PMDB/lib/javacore.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/deshpany/Downloads/jersey-bundle-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/tomcat/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/HP-SHR/PMDB/lib/vertica-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/HP-SHR/PMDB/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/HP-SHR/PMDB/lib/jta.jar"/>
+	<classpathentry kind="lib" path="C:/HP-SHR/PMDB/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/quartz-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/java-json.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
