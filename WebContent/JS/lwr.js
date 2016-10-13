@@ -219,6 +219,9 @@ function loadReport(reportName,userName){
 				section.append("<div id=\"reportmain_div\">");
 				var numRows = jsonData.maxrows;
 				var rowHeight = 85/numRows;
+				if(rowHeight<25){
+					rowHeight=25;
+				}
 				for(i=0;i<numRows;i++){
 					var row = jsonData.rows[i];
 					var numCols = row.elements.length;
